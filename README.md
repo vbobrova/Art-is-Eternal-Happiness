@@ -1,4 +1,5 @@
 1. Implement static web-page according to main.psd.
+
   - Desktop version.
   - Without Javacript.
   - Plain HTML & CSS
