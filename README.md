@@ -4,6 +4,7 @@
   - Plain HTML & CSS
 
 2. Explore basic terminal commands:
+
  - ls
  - cd
  - mkdir
