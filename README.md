@@ -1,7 +1,7 @@
 1. Implement static web-page according to main.psd.
-  1. Desktop version.
-  2. Without Javacript.
-  3. Plain HTML & CSS
+  - Desktop version.
+  - Without Javacript.
+  - Plain HTML & CSS
 
 2. Explore basic terminal commands:
  - ls
