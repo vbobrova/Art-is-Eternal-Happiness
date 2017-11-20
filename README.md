@@ -17,6 +17,7 @@
 4. Create empty repository
 
 3. Explore basic git actions:
+
  - clone
  - checkout
  - add
